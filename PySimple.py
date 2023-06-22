@@ -22,7 +22,6 @@ from typing import (
 import sys
 import json
 
-x = time()
 
 # -------------------------------------------------------------------------------------------------
 # Specials Variables
@@ -281,5 +280,3 @@ def show_platform_print():
     print(sys.platform)
 
 
-y = time() - x
-print(y)
