@@ -36,8 +36,12 @@ PySimple is a Python module that provides various modifications, new functions, 
 
 Please note that some functionalities may be incomplete or broken, as indicated in the code comments.
 
+# Modules you need to install.
+You need to install math, random, time and the json modules.
+
 # Need any help?
 Go on ``https://github.com/Ierzi/pysimple/issues`` ! I will answer you as fast as possible!
 
 # Want to be a coder with me?
-Go on ```...`` (soon)
+Go on ``...`` (soon)
+
