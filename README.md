@@ -32,9 +32,10 @@ PySimple is a Python module that provides various modifications, new functions, 
         time_function(func): A decorator that measures and prints the time in seconds required to run a function.
         Timer: A class for measuring the execution time of a specific code block.
         sort_values(*values): Takes multiple string or list values and prints them in alphabetical order.
-        create_list(*values, sorting=False, count_print=False, count_var=False, find=None): Takes multiple string or list values and returns a list containing those values. Additional options include sorting the list, printing the items, counting the number of items, and searching for a specific value.
+        create_list(*values, sorting=False, count_print=False, count_var=False, find=None): Takes multiple string or list values and returns a list containing those values. 
+        Additional options include sorting the list, printing the items, counting the number of items, and searching for a specific value.
 
-Please note that some functionalities may be incomplete or broken, as indicated in the code comments.
+Please note that some functionalities may be incomplete or broken, as indicated in the code comments. Note also that this is all the modifications I gave to python in Pysimple Beta 1.1. If you are not with the beta 1.1 version, some commands would be incomplete or you will have more commands than expected.
 
 # Modules you need to install.
 You need to install math, random, time and the json modules.
