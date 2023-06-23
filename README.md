@@ -44,5 +44,5 @@ You need to install math, random, time and the json modules.
 Go on ``https://github.com/Ierzi/pysimple/issues`` ! I will answer you as fast as possible!
 
 # Want to be a coder with me?
-Go on ``...`` (soon)
+Contact me on ``ierzipromail@gmail.com``
 
