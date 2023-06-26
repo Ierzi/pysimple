@@ -22,7 +22,6 @@ from typing import (
 import sys
 import json
 
-
 # -------------------------------------------------------------------------------------------------
 # Specials Variables
 
@@ -278,5 +277,30 @@ def show_platform():
 
 def show_platform_print():
     print(sys.platform)
+
+def encrypt(word):
+    pass
+
+def detect_keyboard():
+    """Freeze Python unitl the user pressed a key on the keyboard."""
+    while True:
+        try:
+            pass
+        except KeyboardInterrupt:
+            break
+
+def call(func):
+    """A decorator that says what function are you executing."""
+    def walrus():
+        print(f'Executing {func.__name__}...')
+        func()
+        print(f'Finished Executing {func.__name__}')
+    
+    return walrus
+
+def to_percent(num: int | float) -> str:
+    return f'{num:,.2%}'
+
+
 
 
